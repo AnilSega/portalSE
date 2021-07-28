@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Landing Page">6e4cb126c3121010f46b42583c40dd1c</macroponent>
+        <name>close modal</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+     helpers.modal.close();
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-27 20:39:40</sys_created_on>
+        <sys_id>d48ab4f25b002010fb2a210bb881c747</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>close modal</sys_name>
+        <sys_package display_value="Portal Starter Experience" source="sn_aes_portal_star">ad33e83a7382101000699434c4f6a79d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal Starter Experience">ad33e83a7382101000699434c4f6a79d</sys_scope>
+        <sys_update_name>sys_ux_client_script_d48ab4f25b002010fb2a210bb881c747</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-10 09:33:24</sys_updated_on>
+    </sys_ux_client_script>
+</record_update>
