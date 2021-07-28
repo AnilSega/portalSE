@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Activity</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-15 21:09:26</sys_created_on>
+        <sys_id>3a8e601953131010c5e2ddeeff7b1214</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity</sys_name>
+        <sys_package display_value="Portal Starter Experience" source="sn_aes_portal_star">ad33e83a7382101000699434c4f6a79d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal Starter Experience">ad33e83a7382101000699434c4f6a79d</sys_scope>
+        <sys_update_name>sys_ux_screen_type_3a8e601953131010c5e2ddeeff7b1214</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-15 21:09:26</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=3a8e601953131010c5e2ddeeff7b1214"/>
+</record_update>

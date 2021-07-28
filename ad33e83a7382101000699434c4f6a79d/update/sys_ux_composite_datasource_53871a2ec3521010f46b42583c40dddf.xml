@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_datasource">
+    <sys_ux_composite_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="kb_knowledge">active=true^workflow_state=published^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item display_value="Published" endquery="false" field="workflow_state" goto="false" newquery="false" operator="=" or="false" value="published"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <encoded_query_script/>
+        <name>Custom Portal Landing - Popular articles Datasource</name>
+        <sort_by>sys_updated_on</sort_by>
+        <sys_class_name>sys_ux_composite_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-01 08:58:39</sys_created_on>
+        <sys_id>53871a2ec3521010f46b42583c40dddf</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Custom Portal Landing - Popular articles Datasource</sys_name>
+        <sys_package display_value="Portal Starter Experience" source="sn_aes_portal_star">ad33e83a7382101000699434c4f6a79d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal Starter Experience">ad33e83a7382101000699434c4f6a79d</sys_scope>
+        <sys_update_name>sys_ux_composite_datasource_53871a2ec3521010f46b42583c40dddf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-11 08:50:33</sys_updated_on>
+        <table>kb_knowledge</table>
+    </sys_ux_composite_datasource>
+</record_update>

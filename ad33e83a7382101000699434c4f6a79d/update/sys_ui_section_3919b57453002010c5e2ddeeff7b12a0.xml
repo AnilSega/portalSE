@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="3919b57453002010c5e2ddeeff7b12a0" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-23 14:51:21</sys_created_on>
+            <sys_id>61bde25b5b202010fb2a210bb881c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="a519b57453002010c5e2ddeeff7b121e">3919b57453002010c5e2ddeeff7b12a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-23 14:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-23 14:51:21</sys_created_on>
+            <sys_id>2dbde25b5b202010fb2a210bb881c702</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="a519b57453002010c5e2ddeeff7b121e">3919b57453002010c5e2ddeeff7b12a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-23 14:51:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-21 20:05:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3919b57453002010c5e2ddeeff7b12a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Portal Starter Experience" source="sn_aes_portal_star">ad33e83a7382101000699434c4f6a79d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Portal Starter Experience">ad33e83a7382101000699434c4f6a79d</sys_scope>
+            <sys_update_name>sys_ui_section_3919b57453002010c5e2ddeeff7b12a0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-21 20:05:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal" name="custom_portal_approval">a519b57453002010c5e2ddeeff7b121e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

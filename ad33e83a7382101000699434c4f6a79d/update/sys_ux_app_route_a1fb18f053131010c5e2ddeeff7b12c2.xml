@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Custom Portal App Config">c5bbbde2c3121010f46b42583c40dd06</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Order success</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>order_success</route_type>
+        <screen_type display_value="Order success">9dfb54f053131010c5e2ddeeff7b12ad</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-14 06:31:17</sys_created_on>
+        <sys_id>a1fb18f053131010c5e2ddeeff7b12c2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Order success</sys_name>
+        <sys_package display_value="Portal Starter Experience" source="sn_aes_portal_star">ad33e83a7382101000699434c4f6a79d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Portal Starter Experience">ad33e83a7382101000699434c4f6a79d</sys_scope>
+        <sys_update_name>sys_ux_app_route_a1fb18f053131010c5e2ddeeff7b12c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-09 10:58:42</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=a1fb18f053131010c5e2ddeeff7b12c2"/>
+</record_update>
