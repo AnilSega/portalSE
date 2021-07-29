@@ -1120,7 +1120,7 @@
           "type" : "CLIENT_TRANSFORM_SCRIPT",
           "script" : {
             "apiVersion" : "2.0.0",
-            "inlineScript" : "/**\n  * @param {params} params\n  * @param {api} params.api\n  * @param {any} params.imports\n  */\nfunction evaluateProperty({api}) {\n    \n\treturn [{\n            \"label\": api.data.breadcrumbs_broker_1.output[0]['label'],\n            \"icon\": api.data.breadcrumbs_broker_1.output[0]['icon'],\n            \"hideLabel\": false\n        },\n        {\n            \"label\": api.data.get_article_details_1.articleDetails.articleInfo.number\n        }\n    ];\n}"
+            "inlineScript" : "/**\n  * @param {params} params\n  * @param {api} params.api\n  * @param {any} params.imports\n  */\nfunction evaluateProperty({api}) {\n    \n\treturn [{\n            \"label\": api.data.breadcrumbs_broker_1.output[0]['label'],\n            \"icon\": \"home-outline\",\n            \"hideLabel\": false\n        },\n        {\n            \"label\": api.data.get_article_details_1.articleDetails.articleInfo.number\n        }\n    ];\n}"
           }
         },
         "delimiter" : {
@@ -2452,13 +2452,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-09-28 19:48:50</sys_created_on>
         <sys_id>41c81fd153231010c5e2ddeeff7b12b6</sys_id>
-        <sys_mod_count>127</sys_mod_count>
+        <sys_mod_count>129</sys_mod_count>
         <sys_name>Article page</sys_name>
         <sys_package display_value="Portal Starter Experience" source="sn_aes_portal_star">ad33e83a7382101000699434c4f6a79d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Portal Starter Experience">ad33e83a7382101000699434c4f6a79d</sys_scope>
         <sys_update_name>sys_ux_macroponent_41c81fd153231010c5e2ddeeff7b12b6</sys_update_name>
         <sys_updated_by>maint</sys_updated_by>
-        <sys_updated_on>2021-07-28 11:46:27</sys_updated_on>
+        <sys_updated_on>2021-07-29 03:59:46</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>
